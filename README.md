@@ -14,7 +14,7 @@
 ### - I'm 19 years old Machine Learning & Artificial Intelligence Enthusiast
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.gifer.com/1k6o.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/-ZGfU4EG2aoAAAAC/championship-soccer.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
