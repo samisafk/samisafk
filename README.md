@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="260" width="498" alt="GIF" align="center" src="https://github.com/samv28/samv28/blob/main/assets/jujutsu-kaisen-gojo.gif">
+<img hight="260" width="498" alt="GIF" align="center" src="https://media.tenor.com/OISpcH9g0zUAAAAC/jujutsu-kaisen-gojo.gif">
 </div>
 
 </br>
