@@ -74,7 +74,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/samv28/samv28/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://steamcommunity.com/id/SAM_v28">
-  <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/samv28/samv28/blob/main/assets/icons/steam.png" />
+  <img align="left" alt="Linkedin" width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/steam_button_icon_151838.png" />
 </br>
 </br>
 </br>
