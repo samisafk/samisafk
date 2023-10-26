@@ -14,7 +14,7 @@
 ### - I'm 19 years old Machine Learning & Artificial Intelligence Enthusiast
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://giphy.com/gifs/clubamerica-football-club-america-s13mpre-5aWpFId1FeaSyNDynP">
+<img hight="400" width="500" alt="GIF" align="right" src="https://panopticon.am/wp-content/uploads/2020/08/Adam-Philips.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
