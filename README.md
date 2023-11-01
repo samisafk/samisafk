@@ -13,6 +13,7 @@
 
 ### - I'm 19 years old Machine Learning & Artificial Intelligence Enthusiast
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samv28lin&label=Profile%20views&color=0e75b6&style=flat" alt="samv28lin" /> </p>
 
 <img hight="300" width="450" alt="GIF" align="right" src="https://media.tenor.com/-ZGfU4EG2aoAAAAC/championship-soccer.gif">
 
