@@ -74,6 +74,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:sameerkhatwani10@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" />
 </a>
+<a href="www.linkedin.com/in/samisafk">
+ <img align="left" alt="Linkedin" width="155" hight="100" src="assets/icons/linkedin.png" />
+</a>
 <a href="https://steamcommunity.com/id/samisafk">
   <img align="left" alt="Steam" width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/steam_button_icon_151838.png" />
 </br>
