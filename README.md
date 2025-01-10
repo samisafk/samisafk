@@ -11,7 +11,8 @@
 
 # About ME 💬 :
 
-### - I'm 20 years old Machine Learning & Artificial Intelligence Enthusiast
+ ### - Passionate about real-world problem-solving with AI/ML.
+ ### - Dedicated to exploring and advancing tech innovations.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samv28lin&label=Profile%20views&color=0e75b6&style=flat" alt="samv28lin" /> </p>
 
@@ -19,13 +20,17 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Image processing
+- ✨ Advanced Machine Learning Techniques
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ IoT Exploring
+- ✨ Gaming Enthusiast
+- ✨ Tech Explorer
+- ✨ Photography 
 - ✨ Mech Keebs
+
+### - Fun Facts : 
+- 🎯 Always looking for new tech to tinker with.
+- 🎮 Believe gaming sharpens strategic thinking!
 
 </br>
 </br>
