@@ -6,7 +6,7 @@
 </br>
 
 
-# About ME 💬 :
+# ME? :
 
  ### - AI/ML.
  ### - Tech Guy.
@@ -15,14 +15,14 @@
 
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Advanced Machine Learning Techniques
+-  Data Structures & Algorithms
+-  Advanced Machine Learning Techniques
 
 ### - Hobbies : 
-- ✨ Gaming Enthusiast
-- ✨ Tech Explorer
-- ✨ Photography 
-- ✨ Mech Keebs
+-  Gaming Enthusiast
+-  Tech Explorer
+-  Photography 
+-  Mech Keebs
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools :
 </br>
 
 <p align="center">
@@ -63,7 +63,7 @@
 
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me .
 
 
 
