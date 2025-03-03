@@ -6,10 +6,10 @@
 </br>
 
 
-# ME? :
+### ME? 
 
- ### - AI/ML.
- ### - Tech Guy.
+ - AI/ML.
+ - Tech Guy.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samv28lin&label=Profile%20views&color=0e75b6&style=flat" alt="samv28lin" /> </p>
 
