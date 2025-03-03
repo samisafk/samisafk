@@ -61,7 +61,6 @@
  </br>
 
 
-<img hight="300" width="450" align="right" alt="GIF" src="https://media.tenor.com/LMif60qJBwUAAAAC/no-game-no-life-careful-who-you-lie-to.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
