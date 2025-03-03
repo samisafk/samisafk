@@ -1,8 +1,6 @@
-# Konichiwa 👋
+JUST SAM
 
-<div align="center">
-<img hight="260" width="498" alt="GIF" align="center" src="https://media.tenor.com/OISpcH9g0zUAAAAC/jujutsu-kaisen-gojo.gif">
-</div>
+
 
 </br>
 </br>
@@ -11,8 +9,8 @@
 
 # About ME 💬 :
 
- ### - Passionate about real-world problem-solving with AI/ML.
- ### - Dedicated to exploring and advancing tech innovations.
+ ### - AI/ML.
+ ### - Tech Guy.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samv28lin&label=Profile%20views&color=0e75b6&style=flat" alt="samv28lin" /> </p>
 
@@ -28,9 +26,7 @@
 - ✨ Photography 
 - ✨ Mech Keebs
 
-### - Fun Facts : 
-- 🎯 Always looking for new tech to tinker with.
-- 🎮 Believe gaming sharpens strategic thinking!
+
 
 </br>
 </br>
