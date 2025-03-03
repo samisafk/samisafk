@@ -72,7 +72,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail_button_icon_151848.png" />
 </a>
 <a href="https://www.linkedin.com/in/samisafk">
- <img align="left" alt="Linkedin" width="130" hight="100" src="assets/icons/linkedin.png" />
+ <img align="left" alt="Linkedin" width="150" hight="100" src="assets/icons/linkedin_button_icon_151847.png" />
 </a>
 <a href="https://steamcommunity.com/id/samisafk">
   <img align="left" alt="Steam" width="130" hight="100" src="assets/icons/steam_button_icon_151838.png" />
